@@ -1,4 +1,4 @@
-const { Server } = require('@webserverless/fc-express')
+const { Server } = require('@webservcerless/fc-express')
 const express = require('express');
 const initRouter = require('./router');
 
